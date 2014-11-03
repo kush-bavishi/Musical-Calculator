@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item 
+        android:id="@+id/shuffle"
+        android:title="Shuffle Music"/>
+    
+    <item 
+        android:id="@+id/toggle"
+        android:title="Pause/Play"/>
+
+</menu>
